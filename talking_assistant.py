@@ -39,7 +39,7 @@ def submit():
     # Clear prompt_input
     st.session_state.prompt_input = ""
 
-st.title("🧑‍💻 Travel buddy 💬 ViaMichelin ")
+st.title("🧑‍💻 Travel buddy 💬 Powered by: ViaMichelin ")
 
 """
 Hello! I am your Travelling buddy Mea 🤖 Just click on the voice recorder and let me know how I can help you today?
