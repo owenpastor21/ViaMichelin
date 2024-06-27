@@ -4,4 +4,5 @@ elevenlabs
 SpeechRecognition
 python-dotenv
 pyaudio
+audio-recorder-streamlit
 langchain
